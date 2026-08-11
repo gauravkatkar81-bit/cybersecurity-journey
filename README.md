@@ -47,11 +47,10 @@ M.Tech in Computer Engineering (2025), transitioning into cybersecurity with a f
 
 ## Background
 
-**M.Tech, Computer Engineering** — Dr. D. Y. Patil College, Nerul (2025)
-**B.E., Information Technology** — Sinhgad Institute of Technology (2023)
-
-Prior training in full-stack development (Core Java, JavaScript, React, SQL), which supports my interest in application security.
+- **M.Tech, Computer Engineering** — Dr. D. Y. Patil College, Nerul (2025)
+- **B.E., Information Technology** — Sinhgad Institute of Technology (2023)
+- Prior training in full-stack development (Core Java, JavaScript, React, SQL), which supports my interest in application security.
 
 ## Contact
 
-LinkedIn: *[add your profile URL here]*
+Email : [katkargaurav5@gmail.com]
