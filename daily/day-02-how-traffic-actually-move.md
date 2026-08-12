@@ -78,11 +78,11 @@ Steps I followed:
 
 Tip: the filter `tcp.flags.syn == 1 && tcp.flags.ack == 0` shows only the connection starts, which makes the handshake much easier to spot.
 
-           ![Three way handshake in Wireshark](images/day02-handshake-google.png)
+![Three way handshake in Wireshark](images/day02-handshake-google.png)
 
 After that I opened YouTube and checked there also. That image is shared below so you can see how to check it.
 
-             ![Three way handshake in Wireshark](images/day02-handshake-youtube.png)
+![Three way handshake in Wireshark](images/day02-handshake-youtube.png)
 
 Note: on Google and YouTube, after the TCP handshake you will also see a TLS handshake (Client Hello / Server Hello). That is the encryption layer, which is separate from TCP.
 
