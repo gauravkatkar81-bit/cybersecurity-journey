@@ -24,12 +24,12 @@ M.Tech in Computer Engineering (2025), transitioning into cybersecurity with a f
 
 ## Certifications
 
-| Certification | Status |
-|---|---|
+| Certification               | Status                          |
+| --------------------------- | ------------------------------- |
 | CompTIA Security+ (SY0-701) | In progress — exam Nov–Dec 2026 |
-| TryHackMe SOC Level 1 | In progress |
-| Splunk Core Certified User | Planned |
-| Microsoft SC-200 | Planned — after Security+ |
+| TryHackMe SOC Level 1       | In progress                     |
+| Splunk Core Certified User  | Planned                         |
+| Microsoft SC-200            | Planned — after Security+       |
 
 ## Repository Structure
 
@@ -41,9 +41,10 @@ M.Tech in Computer Engineering (2025), transitioning into cybersecurity with a f
 
 ## Recent Writeups
 
-| Date | Topic | Link |
-|------|-------|------|
-| 2026-08-11 | Building the home lab: Kali, Ubuntu and Windows 10 in VMware | [Day 1](daily/day-01-lab-setup.md) |
+| Date       | Topic                                                                    | Link                                               |
+| ---------- | ------------------------------------------------------------------------ | -------------------------------------------------- |
+| 2026-08-11 | Building the home lab: Kali, Ubuntu and Windows 10 in VMware             | [Day 1](daily/day-01-lab-setup.md)                 |
+| 2026-08-12 | How Traffic Actually Move: TCP vs UDP, Three way handshake, Common Ports | [Day 2](daily/day-02-how-traffic-actually-move.md) |
 
 ## Background
 
@@ -54,4 +55,4 @@ Prior training in full-stack development (Core Java, JavaScript, React, SQL), wh
 
 ## Contact
 
-LinkedIn: *[add your profile URL here]*
+LinkedIn: _[add your profile URL here]_
