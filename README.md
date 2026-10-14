@@ -51,7 +51,8 @@ M.Tech in Computer Engineering (2025), transitioning into cybersecurity with a f
 | 2026-08-11 | Building the home lab: Kali, Ubuntu and Windows 10 in VMware                    | [Day 1](daily/day-01-lab-setup.md)                 |
 | 2026-08-12 | How Traffic Actually Move: TCP vs UDP, Three way handshake, Common Ports        | [Day 2](daily/day-02-how-traffic-actually-move.md) |
 | 2026-10-12 |              Google Professional Cyber Security Certificate Course              |                                                    |
-| 2026-10-12 | Security, Job responsibility, Core skill, Value of security, Security domains   | [Day 1](daily/Google%20Professional%20Cyber%20Security%20Certificate/Module%201%2C2%20and%203.md |
+| 2026-10-12 | Security, Job responsibility, Core skill, Value of security, Security domains   | 
+[Day 1](daily/Google%20Professional%20Cyber%20Security%20Certificate/Module%201%2C2%20and%203.md |
 | 2026-10-13 | Security Framework & Control, Tools, Security Domain, Framework & control audits| [Day 2](daily/day-02-how-traffic-actually-move.md) |
 | 2026-10-14 | Tools, Protect asset and Data, Network Framework, Networking tool, TCP/IP model | [Day 2](daily/day-02-how-traffic-actually-move.md) |
 
