@@ -9,52 +9,53 @@ M.Tech in Computer Engineering (2025), transitioning into cybersecurity with a f
 ---
 
 ## Current Focus
-- Google Professional Cyber Security Certificate - ongoing
-- TryHackMe SOC Level 0 and 1 path
-- CompTIA Security+ (SY0-701) — exam booked for Nov–Dec 2026
+
+- Google Professional Cyber Security Certificate — Ongoing
+- TryHackMe SOC Level 0 and Level 1 paths
+- CompTIA Security+ (SY0-701) — Exam planned for Nov–Dec 2026
 - TryHackMe SAL Level 1 Path
 - Building a home detection lab (Kali / Ubuntu / Windows)
 
 ## Skills In Progress
 
-**Networking:** TCP/IP, DNS, subnetting, Wireshark analysis
-**Operating systems:** Linux administration, Windows internals, Active Directory
-**Security tools:** Nmap, Wireshark, Splunk, ufw
-**Scripting:** Bash, Python
-**Frameworks:** MITRE ATT&CK, NIST incident response lifecycle
-**Database:** SQL
+- **Networking:** TCP/IP, DNS, subnetting, Wireshark analysis
+- **Operating Systems:** Linux administration, Windows internals, Active Directory
+- **Security Tools:** Nmap, Wireshark, Splunk, UFW
+- **Scripting:** Bash, Python
+- **Frameworks:** MITRE ATT&CK, NIST Incident Response Lifecycle
+- **Database:** SQL
 
 ## Certifications
 
-| Certification                        | Status                          |
-| ------------------------------------ | ------------------------------- |
-| Google Professional Cyber Security   | Ongoing                         |
-| TryHackMe SOC Level 0                | In progress                     |
-| TryHackMe SOC Level 1                | In progress                     |
-| CompTIA Security+ (SY0-701)          | In progress — exam Nov–Dec 2026 |
-| TryHackMe SAL Level 1                | In progress                     |
-| Splunk Core Certified User           | Planned                         |
-| Microsoft SC-200                     | Planned — after Security+       |
+| Certification | Status |
+|---|---|
+| Google Professional Cyber Security Certificate | Ongoing |
+| TryHackMe SOC Level 0 | In progress |
+| TryHackMe SOC Level 1 | In progress |
+| CompTIA Security+ (SY0-701) | In progress — exam Nov–Dec 2026 |
+| TryHackMe SAL Level 1 | In progress |
+| Splunk Core Certified User | Planned |
+| Microsoft SC-200 | Planned — after Security+ |
 
 ## Repository Structure
 
-- `/daily` — daily log of what I worked on
-- `/writeups` — TryHackMe room writeups and methodology notes
-- `/lab` — home lab configuration and documentation
-- `/scripts` — automation and log-analysis scripts
-- `/notes` — study notes by topic
+- `daily/` — Daily log of what I worked on
+- `writeups/` — TryHackMe room writeups and methodology notes
+- `lab/` — Home lab configuration and documentation
+- `scripts/` — Automation and log-analysis scripts
+- `notes/` — Study notes by topic
+- `images/` — Screenshots and supporting images
 
 ## Recent Writeups
 
-| Date       | Topic                                                                           | Link                                               |
-| ---------- | ------------------------------------------------------------------------------- | -------------------------------------------------- |
-| 2026-08-11 | Building the home lab: Kali, Ubuntu and Windows 10 in VMware                    | [Day 1](daily/day-01-lab-setup.md)                 |
-| 2026-08-12 | How Traffic Actually Move: TCP vs UDP, Three way handshake, Common Ports        | [Day 2](daily/day-02-how-traffic-actually-move.md) |
-| 2026-10-12 |              Google Professional Cyber Security Certificate Course              |                                                    |
-| 2026-10-12 | Security, Job responsibility, Core skill, Value of security, Security domains   | 
-[Day 1](daily/Google%20Professional%20Cyber%20Security%20Certificate/Module%201%2C2%20and%203.md |
-| 2026-10-13 | Security Framework & Control, Tools, Security Domain, Framework & control audits| [Day 2](daily/day-02-how-traffic-actually-move.md) |
-| 2026-10-14 | Tools, Protect asset and Data, Network Framework, Networking tool, TCP/IP model | [Day 2](daily/day-02-how-traffic-actually-move.md) |
+| Date | Topic | Link |
+|---|---|---|
+| 2026-08-11 | Building the home lab: Kali, Ubuntu and Windows 10 in VMware | [Day 1](daily/day-01-lab-setup.md) |
+| 2026-08-12 | How Traffic Actually Moves: TCP vs UDP, Three-Way Handshake, Common Ports | [Day 2](daily/day-02-how-traffic-actually-move.md) |
+| 2026-10-12 | Google Professional Cyber Security Certificate Course | [Module 1, 2 and 3](daily/Google%20Professional%20Cyber%20Security%20Certificate/Module%201%2C2%20and%203.md) |
+| 2026-10-12 | Security, Job Responsibilities, Core Skills, Value of Security, Security Domains | [Module 1, 2 and 3](daily/Google%20Professional%20Cyber%20Security%20Certificate/Module%201%2C2%20and%203.md) |
+| 2026-10-13 | Security Frameworks and Controls, Tools, Security Domains, Control Audits | [Module 1, 2 and 3](daily/Google%20Professional%20Cyber%20Security%20Certificate/Module%201%2C2%20and%203.md) |
+| 2026-10-14 | Tools, Asset and Data Protection, Network Frameworks, Networking Tools, TCP/IP Model | [Module 1, 2 and 3](daily/Google%20Professional%20Cyber%20Security%20Certificate/Module%201%2C2%20and%203.md) |
 
 ## Background
 
@@ -64,4 +65,7 @@ M.Tech in Computer Engineering (2025), transitioning into cybersecurity with a f
 
 ## Contact
 
-Email : [gauravkatkar81@gmail.com]
+**Email:** [gauravkatkar81@gmail.com](mailto:gauravkatkar81@gmail.com)
+6. Commit your changes.
+
+Remember: Paste this into the GitHub Markdown editor, not into the README's Preview tab.
