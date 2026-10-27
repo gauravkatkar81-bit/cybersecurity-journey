@@ -10,8 +10,8 @@ M.Tech in Computer Engineering (2025), transitioning into cybersecurity with a f
 
 ## Current Focus
 
-- Google Professional Cyber Security Certificate — Ongoing
-- TryHackMe SOC Level 0 and Level 1 paths
+- Google Professional Cyber Security Certificate — Completed
+- TryHackMe SOC Level 0 and Level 1 paths - Ongoing
 - CompTIA Security+ (SY0-701) — Exam planned for Nov–Dec 2026
 - TryHackMe SAL Level 1 Path
 - Building a home detection lab (Kali / Ubuntu / Windows)
@@ -29,8 +29,8 @@ M.Tech in Computer Engineering (2025), transitioning into cybersecurity with a f
 
 | Certification | Status |
 |---|---|
-| Google Professional Cyber Security Certificate | Ongoing |
-| TryHackMe SOC Level 0 | In progress |
+| Google Professional Cyber Security Certificate | Completed | 25-10-2026 |
+| TryHackMe SOC Level 0 | Ongoing |
 | TryHackMe SOC Level 1 | In progress |
 | CompTIA Security+ (SY0-701) | In progress — exam Nov–Dec 2026 |
 | TryHackMe SAL Level 1 | In progress |
