@@ -1,7 +1,7 @@
 # Module 2: Computer Fundamentals
-**Path:** TryHackMe - Pre-Security
-**Date Completed:** 26 October 2026
-**Focus:** Computer Architecture, Computer Types, Client-Server Basic, Virtualization & Cloud Basic
+- **Path:** TryHackMe - Pre-Security
+- **Date Completed:** 26 October 2026
+- **Focus:** Computer Architecture, Computer Types, Client-Server Basic, Virtualization & Cloud Basic
 
 ---
 
