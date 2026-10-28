@@ -1,7 +1,7 @@
 # Module 3: Operating System && Module 4: Software Basic
-**Path:** TryHackMe - Pre-Security
-**Date Completed:** 27 October 2026
-**Focus:** OS Introduction, Windows Basic, Linux Commands, Windows Commands, OS Security, Data Representation, Data Encoding, Python Simple Demo, JS Simple Demo, SQL 
+- **Path:** TryHackMe - Pre-Security
+- **Date Completed:** 27 October 2026
+- **Focus:** OS Introduction, Windows Basic, Linux Commands, Windows Commands, OS Security, Data Representation, Data Encoding, Python Simple Demo, JS Simple Demo, SQL 
 
 ---
 
