@@ -1,7 +1,7 @@
 # Module 6: How The Web Works
-**Path:** TryHackMe - Pre-Security
-**Date Completed:** 29 October 2026
-**Focus:** DNS in Details, HTTP in Details, How Websites Work, Putting It All Together
+-**Path:** TryHackMe - Pre-Security
+-**Date Completed:** 29 October 2026
+-**Focus:** DNS in Details, HTTP in Details, How Websites Work, Putting It All Together
 
 ---
 
